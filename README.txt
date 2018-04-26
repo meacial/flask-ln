@@ -13,3 +13,7 @@ Flask Stack:
 12、Caching using Flask-Cache
 13、Useful debug toolbar
 14、Utilizes best practices: Blueprints and Application Factory patterns
+
+
+
+link: https://pythonspot.com/flask-boilerplate-with-bootstrap-sqlalchemy/
